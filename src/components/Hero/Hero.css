@@ -1,0 +1,33 @@
+.hero-banner {
+  font-weight: 800;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.coloured-hero {
+  color: blueviolet;
+}
+.purchase-btn {
+  color: white;
+  background-color: blueviolet;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+  border-radius: 25px;
+}
+a {
+  margin-top: 30px;
+  text-decoration: none;
+  color: blueviolet;
+  margin-bottom: 300px;
+}

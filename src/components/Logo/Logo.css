@@ -1,0 +1,29 @@
+span {
+  color: blueviolet;
+}
+h4 {
+  font-size: 20px;
+}
+
+.behindbar {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.signin-btn {
+  background-color: white;
+  font-weight: bold;
+  font-size: medium;
+  border: 0px solid white;
+}
+
+.signup-btn {
+  background-color: blueviolet;
+  border-radius: 15px;
+  padding: 4px;
+  font-weight: bold;
+  font-size: medium;
+}
